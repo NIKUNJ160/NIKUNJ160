@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently computer science student<br>🔭 I’m currently working on python<br>🔧 Skilled in web development 
+Hi, I'm Nikunjkumar.
+<br>
+Freelance Web Developer & QA Tester. I build fast, responsive web applications and break them before your users do. By pairing clean front-to-back development with rigorous quality assurance, I deliver digital products that look great, function smoothly, and perform reliably under real-world conditions.
 
 
 ## 🌐 Socials:
@@ -24,8 +26,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NIKUNJ160&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Nikk1608) 
+ 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
